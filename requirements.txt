@@ -1,0 +1,10 @@
+sklearn
+tensorflow
+numpy
+soundfile
+sounddevice
+tqdm
+librosa
+matplotlib
+ipywidgets
+pedalboard

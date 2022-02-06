@@ -1,0 +1,31 @@
+{
+    "audio_length": 1,
+    "center": true,
+    "classes": [
+        "IR_1",
+        "IR_10",
+        "IR_2",
+        "IR_3",
+        "IR_4",
+        "IR_5",
+        "IR_6",
+        "IR_7",
+        "IR_8",
+        "IR_9"
+    ],
+    "hop_length": 256,
+    "input_shape": [
+        64,
+        63,
+        1
+    ],
+    "mono": true,
+    "n_fft": 2048,
+    "n_frames": 63,
+    "n_mels": 64,
+    "pad_mode": "reflect",
+    "power": 2.0,
+    "sr": 16000,
+    "win_length": 2048,
+    "window": "hann"
+}
